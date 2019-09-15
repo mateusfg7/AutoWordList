@@ -3,8 +3,11 @@
 
 *Testado apenas no Debian*
 
-Dê permissões de execução:
-> $ sudo chmod +x ipscan.sh
-
-Execute:
-> $ ./ipscan.sh
+> Dê permissões de execução:
+```
+sudo chmod +x ipscan.sh
+```
+> Execute:
+```
+./ipscan.sh
+```
