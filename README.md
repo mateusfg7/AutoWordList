@@ -1,5 +1,5 @@
 # Auto WordList
-**Script que facilita a criação de wordlists com o programa [Crunch](https://sourceforge.net/projects/crunch-wordlist/)**
+***Script que facilita a criação de wordlists com o programa [Crunch](https://sourceforge.net/projects/crunch-wordlist/)***
 
 > *Testado apenas no Debian*
 
