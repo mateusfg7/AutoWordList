@@ -20,16 +20,9 @@ WHO=$(whoami)
 
 
 progama(){
-    by(){
-        echo -e '    \033[05;34;41mBy @Ark-c3'
-    }
-
     echo "################################################################################"
     echo -e "$branco"
     figlet " WordListCrunch   "
-    by
-    echo -e "$branco https://arkc3ti.blogspot.com.br/"
-    echo -e "$branco https://github.com/ark-c3"
     echo -e "$zero"
     echo -e "\033[00m################################################################################"
     echo
